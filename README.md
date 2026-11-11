@@ -33,12 +33,5 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,fastapi,prisma,postgres,sqlite,docker,aws,githubactions,jest,cypress,figma" alt="Backend & tools" />
 </p>
 
-### 💼 Experience
-| Role | Company | Period |
-|------|---------|--------|
-| Senior Full Stack AI Developer | Humain Dev Systems | 2025 – present |
-| Frontend / Full Stack Developer | AOByte | 2022 – 2025 |
-| Frontend Developer | Kiwi Science | 2021 – 2022 |
-
 ### 🌍 Languages
 Armenian (native) · Russian (proficient) · English (upper-intermediate)
